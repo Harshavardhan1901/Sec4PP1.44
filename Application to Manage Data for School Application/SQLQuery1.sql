@@ -29,4 +29,3 @@ insert into Student values (1,'Sam',2,1),(2,'Raj',1,2)
 select * from Subject
 select * from Classes
 select * from Student
-
